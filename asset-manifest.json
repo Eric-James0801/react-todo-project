@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Eric-James0801/react-todo-project/static/css/main.12f2eee5.css",
+    "main.js": "/Eric-James0801/react-todo-project/static/js/main.59cb2d15.js",
+    "index.html": "/Eric-James0801/react-todo-project/index.html",
+    "main.12f2eee5.css.map": "/Eric-James0801/react-todo-project/static/css/main.12f2eee5.css.map",
+    "main.59cb2d15.js.map": "/Eric-James0801/react-todo-project/static/js/main.59cb2d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f2eee5.css",
+    "static/js/main.59cb2d15.js"
+  ]
+}
